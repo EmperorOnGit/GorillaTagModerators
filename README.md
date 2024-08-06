@@ -1,6 +1,6 @@
 # GorillaTagModerators
 List of Gorilla Tag moderators and their UserID's<br />
-Made by lars#2469/0harmony<br />
+Made by lars#2469/0harmony modded my Emperor<br />
 THIS LIST IS INCOMPLETE, AND WILL BE UPDATED OVERTIME
 RANKS & NAMES MIGHT BE INACCURATE!!!!!
 | UserID(s) | Name | Rank | Additional notes |
@@ -41,7 +41,7 @@ OTHER NOTABLE PEOPLE (thx ColossusYTTV & Pepsi Dee)
 |6713DA80D2E9BFB5|AHAUNTEDARMY|Mod Creator/Stick candidate|Part time dev according to anonymous sources|
 |498D4C2F23853B37|POGTROLL|Comp Player|none|
 |6DC06EEFFE9DBD39|LUCIO|Comp Player/Tiktoker|inactive?|
-|E354E818871BD1D8|DEVTHEYTHEM|Official Modder|none|
+|E354E818871BD1D8|DEVTHEYTHEM/developer9998|Official Modder|none|
 |A6FFC7318E1301AF<br >E5758483EFCD0D18|JMAN|Youtuber|(Didn't loose cc, that was misinformation)<br >Credits to KINGCUBINGVR and glowstone for the second id.|
 |D6971CA01F82A975|ELLIOT|Youtuber|Has artist badge|
 |458CCE7845335ABF|ETHYB|Youtuber|none|
@@ -54,3 +54,7 @@ OTHER NOTABLE PEOPLE (thx ColossusYTTV & Pepsi Dee)
 |FD39927817389160|FOOJVR|TikToker|Steam account, has finger painter|
 |CC24059E8F10EF1F|TINOTIN|progtagleaker|none|
 |8FECBBC89D69575E|KyleTheScientist|Legal Mod Creator|Created Bark|
+|41988726285E534E|Colussus|Illegal Mod Creator|Claims to be the first gtag cheater|
+|4ACA3C76B334B17F|Whiz|Illegal Mod Creator|none|
+|F08CE3118F9E793E|TurboAlligator|Youtuber|none|
+|339E0D392565DC39|Kishark|Youtuber|none|
